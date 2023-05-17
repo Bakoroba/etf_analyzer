@@ -25,6 +25,10 @@ The Apps main functionalities include:
 
 - Use the Voilà library to deploy the notebook as a web application on the local computer.
 
+
+https://github.com/Bakoroba/etf_analyzer/assets/7796158/23c98d07-1f2b-4554-8954-c64232601496
+
+
 # Installation Guide
 - To install clone the github directory
 
